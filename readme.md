@@ -427,16 +427,16 @@ automatically.
 
 >#### 4.5.3 Functional Requirements
 
->	4.5.3.1: Facilities will be inspected at least every 18 months with an
+>>	4.5.3.1: Facilities will be inspected at least every 18 months with an
 	average inspection interval of 13-15 months between inspections.
 
->	4.5.3.2: Inspections for previously problematic facilities should
+>>	4.5.3.2: Inspections for previously problematic facilities should
 	average 9-12 months, good facilities will average 16-18 months.
 
->	4.5.3.3: Inspections for facilities with 3 consecutive inspections with
+>>	4.5.3.3: Inspections for facilities with 3 consecutive inspections with
 	no complaints or citations may be inspected up to 24 months apart.
 
->	4.5.4.3: After the inspection, at least 6 working days must be allowed
+>.	4.5.4.3: After the inspection, at least 6 working days must be allowed
 	for post-inspection processing to occur.
 
 >#### 4.5.4 Requirement Specifications
